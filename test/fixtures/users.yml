@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  isAdmin: false
+  background: MyText
+  sex: MyString
+  dateOfBirth: 2018-03-31
+
+two:
+  username: MyString
+  isAdmin: false
+  background: MyText
+  sex: MyString
+  dateOfBirth: 2018-03-31
